@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-06T21:28:54 IST" name="Default suite" finished-at="2026-05-06T21:29:39 IST" duration-ms="44684">
+    <groups>
+    </groups>
+    <test started-at="2026-05-06T21:28:54 IST" name="Default test" finished-at="2026-05-06T21:29:39 IST" duration-ms="44684">
+      <class name="org.wipro.auto.ecommerce.testcases.RegsitrationScenario_DDF">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.auto.ecommerce.testcases.RegsitrationScenario_DDF@45752059]" started-at="2026-05-06T21:28:54 IST" name="launchBrowser" finished-at="2026-05-06T21:29:20 IST" duration-ms="26494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="tc02_validate_regsitartion_validdata(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.wipro.auto.ecommerce.testcases.RegsitrationScenario_DDF@45752059]" started-at="2026-05-06T21:29:20 IST" name="tc02_validate_regsitartion_validdata" data-provider="register" finished-at="2026-05-06T21:29:23 IST" duration-ms="2669" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John Seo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[it_john]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_validate_regsitartion_validdata -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.auto.ecommerce.testcases.RegsitrationScenario_DDF@45752059]" started-at="2026-05-06T21:29:23 IST" name="closeBrowser" finished-at="2026-05-06T21:29:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.auto.ecommerce.testcases.RegsitrationScenario_DDF@45752059]" started-at="2026-05-06T21:29:23 IST" name="launchBrowser" finished-at="2026-05-06T21:29:28 IST" duration-ms="4655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="tc02_validate_regsitartion_validdata(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.wipro.auto.ecommerce.testcases.RegsitrationScenario_DDF@45752059]" started-at="2026-05-06T21:29:28 IST" name="tc02_validate_regsitartion_validdata" data-provider="register" finished-at="2026-05-06T21:29:29 IST" duration-ms="1674" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[David Leo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[it_davi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_validate_regsitartion_validdata -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.auto.ecommerce.testcases.RegsitrationScenario_DDF@45752059]" started-at="2026-05-06T21:29:29 IST" name="closeBrowser" finished-at="2026-05-06T21:29:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.auto.ecommerce.testcases.RegsitrationScenario_DDF@45752059]" started-at="2026-05-06T21:29:29 IST" name="launchBrowser" finished-at="2026-05-06T21:29:36 IST" duration-ms="7050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="tc02_validate_regsitartion_validdata(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.wipro.auto.ecommerce.testcases.RegsitrationScenario_DDF@45752059]" started-at="2026-05-06T21:29:36 IST" name="tc02_validate_regsitartion_validdata" data-provider="register" finished-at="2026-05-06T21:29:39 IST" duration-ms="2017" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Neena Punjabi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[it_neena]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[17]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_validate_regsitartion_validdata -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.auto.ecommerce.testcases.RegsitrationScenario_DDF@45752059]" started-at="2026-05-06T21:29:39 IST" name="closeBrowser" finished-at="2026-05-06T21:29:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.wipro.auto.ecommerce.testcases.RegsitrationScenario_DDF -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

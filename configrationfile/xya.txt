@@ -1,0 +1,31 @@
+Evolving Trends in Test Automation: 
+From Frameworks to Cloud-Native Testing and Smart Scripting
+e-commerce
+https://www.automationexercise.com/
+https://magento.softwaretestingboard.com/
+testingmind.com
+
+https://wiprocon.webex.com/meet/pritamm.singh
+
+Questions to Ask the Interviewer
+
+“How is the QA function structured within Bank of America?”
+
+“What’s the current automation maturity level, and what are your expectations from a Test Architect?”
+
+“How does QA contribute to risk management or compliance reporting?”
+
+“Are there any upcoming modernization or migration initiatives?”
+
+This is while loop
+
+--Interview questions on Java
+
+How to avoid flaky tests caused by stale data
+
+browsername=edge
+url=facebook.com
+
+Name | Description | Steps | Expected
+
+https://fixyouroffers.com/offerai
