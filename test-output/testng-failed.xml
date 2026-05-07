@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="org.wipro.auto.ecommerce.testcases.LoginScenario">
+      <class name="org.wipro.auto.ecommerce.testcases.ProductScenario">
         <methods>
           <include name="closeBrowser"/>
-          <include name="tc01_validate_login_crednetails_valid_data"/>
+          <include name="Test_Case_9_Search_Product"/>
           <include name="launchBrowser"/>
         </methods>
-      </class> <!-- org.wipro.auto.ecommerce.testcases.LoginScenario -->
+      </class> <!-- org.wipro.auto.ecommerce.testcases.ProductScenario -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
